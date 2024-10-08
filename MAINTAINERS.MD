@@ -5,6 +5,6 @@
 | Orange | Gilles Renoux | GillesInnov35 |
 | Orange | Ludovic Robert | bigludo7 |
 | Telefonica | Clara Serrano | claraserranosolsona |
-| Telefonica | Jorge García | jgarciahospital |
+| Telefonica | Fernando Prado | fernandopradocabrillo |
 | Vodafone | Ali Gilani | ag-vodafone |
 | Vodafone | Luis Lopez Corpas | luislopezcorpas |
